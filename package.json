@@ -1,0 +1,36 @@
+{
+  "title": "Wallaby Jacks",
+  "name": "wallaby-jacks-website",
+  "version": "4.0.0",
+  "description": "An Australian Themed Waffle House",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://github.com/jonathanboard/wallabyjacks",
+  "bugs": {
+    "url": "https://github.com/jonathanboard/wallabyjacks",
+    "email": "info@jmbproject.com"
+  },
+  "license": "MIT",
+  "author": "Wallaby Jack",
+  "contributors": [
+    "Jonathan Board (http://jmbproject.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanboard/wallabyjacks.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.0",
+    "jquery": "3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
